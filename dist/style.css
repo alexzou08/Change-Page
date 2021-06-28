@@ -1,0 +1,18 @@
+div {
+  width: 160pt;
+}
+.yellowback {
+  background-color: yellow;
+}
+
+.blueback {
+  background-color: lightblue;
+}
+
+.orangeback {
+  background-color: orange;
+}
+
+.fuchsiaback {
+  background-color: fuchsia;
+}
